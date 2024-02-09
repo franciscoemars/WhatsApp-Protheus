@@ -1,5 +1,5 @@
 # WhatsApp-Protheus
-Script Simples para enviar automaticamente mensagens via WhatsApp utilizando Protheus.
+Script Simples para enviar automaticamente mensagens via WhatsApp utilizando Base de Dados do Protheus.
 
 Acessando as tabelas principais SA1010 (Clientes) e SA3010 (Vendedores), ele busca o cliente que não teve 
 compras nos ultimos X dias, depois que selecionou o cliente ele busca o vendedor desse cliente para então
